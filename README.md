@@ -18,6 +18,10 @@ Java
 - Implement an Autocomplete system where a user types in a partial query string.
 - Implement the method to draw red dot markers on each of the matching locations.
 
+Heroku
+
+- Deploy the street mapping application to the web.
+
 
 **Click me to try:**
 
