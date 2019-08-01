@@ -23,7 +23,7 @@ Heroku
 - Deploy the street mapping application to the web.
 
 
-**Click me to try:**
+**Click me to try:** (As it is deploy with free plan, it may take a few minutes to load the map)
 
 [http://bearmaps-floramap.herokuapp.com/map.html](http://bearmaps-floramap.herokuapp.com/map.html)
 
