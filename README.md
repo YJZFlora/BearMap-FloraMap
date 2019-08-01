@@ -29,7 +29,7 @@ Heroku
 
 [BearMaps](http://bearmaps-floramap.herokuapp.com/map.html)
 
-**Project Implement description & Source code:**
+**Project Implement description & skeleton code:**
 @ Code based on the project 2c of Bekeley 61B Spring 2019
 
 [https://sp19.datastructur.es/materials/proj/proj2c/proj2c#autocomplete-and-search-part-iii](https://sp19.datastructur.es/materials/proj/proj2c/proj2c#autocomplete-and-search-part-iii)
