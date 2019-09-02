@@ -13,7 +13,7 @@ The user’s web browser provides a URL to the Java program, and the back end Ja
 
 Java
 
-- Provide rastering images when user zoom in or zoom out.
+- Provide raster images when user zoom in or zoom out.
 - Calculate the shortest path.
 - Implement an Autocomplete system where a user types in a partial query string.
 - Implement the method to draw red dot markers on each of the matching locations.
@@ -23,7 +23,7 @@ Heroku
 - Deploy the street mapping application to the web.
 
 
-**Click me to try:** (As it is deploy with free plan, it may take a few minutes to load the map)
+**Click me to try:** (As it is deployed with free plan, it may take a few minutes to load the map)
 
 [http://bearmaps-floramap.herokuapp.com/map.html](http://bearmaps-floramap.herokuapp.com/map.html)
 
